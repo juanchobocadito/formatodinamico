@@ -1,0 +1,10 @@
+.card-fruit{
+    border: 10px outset  ;
+    cursor: pointer;
+}
+
+.card-fruit.selected-card .card{
+    border: 8cqisolid #020;
+        box-shadow: 0px 4px 10px -3px rgb(119 119 177);
+        
+}

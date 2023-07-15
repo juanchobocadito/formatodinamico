@@ -1,0 +1,19 @@
+.services h2 {
+    background-image: linear-gradient(128deg,
+            #b16cea 8%,
+            #ff5e69 40%,
+            #ff8a56 77%,
+            #ffa84b 91%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+}
+
+.services h4 {
+    color: #000;
+    background-image: none;
+    font-weight: 800;
+    font-size: 22px;
+    border: 8cqisolid #100
+}
